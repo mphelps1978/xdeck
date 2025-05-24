@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "user": "user1",
+    "content": "This is a sample post about #news",
+    "created_at": "2025-05-23T13:00:00Z"
+  },
+  {
+    "id": "2",
+    "user": "tech_guru",
+    "content": "Exciting #tech update: new AI model released!",
+    "created_at": "2025-05-23T12:30:00Z"
+  },
+  {
+    "id": "3",
+    "user": "news_fan",
+    "content": "Breaking #news: major policy change announced",
+    "created_at": "2025-05-23T12:00:00Z"
+  },
+  {
+    "id": "4",
+    "user": "user1",
+    "content": "This is a sample post about #news",
+    "created_at": "2025-05-23T13:00:00Z"
+  },
+  {
+    "id": "5",
+    "user": "tech_guru",
+    "content": "Exciting #tech update: new AI model released!",
+    "created_at": "2025-05-23T12:30:00Z"
+  },
+  {
+    "id": "6",
+    "user": "news_fan",
+    "content": "Breaking #news: major policy change announced",
+    "created_at": "2025-05-23T12:00:00Z"
+  },
+  {
+    "id": "7",
+    "user": "user1",
+    "content": "This is a sample post about #news",
+    "created_at": "2025-05-23T13:00:00Z"
+  },
+  {
+    "id": "8",
+    "user": "tech_guru",
+    "content": "Exciting #tech update: new AI model released!",
+    "created_at": "2025-05-23T12:30:00Z"
+  },
+  {
+    "id": "9",
+    "user": "news_fan",
+    "content": "Breaking #news: major policy change announced",
+    "created_at": "2025-05-23T12:00:00Z"
+  },
+  {
+    "id": "10",
+    "user": "user1",
+    "content": "This is a sample post about #news",
+    "created_at": "2025-05-23T13:00:00Z"
+  },
+  {
+    "id": "11",
+    "user": "tech_guru",
+    "content": "Exciting #tech update: new AI model released!",
+    "created_at": "2025-05-23T12:30:00Z"
+  },
+  {
+    "id": "12",
+    "user": "news_fan",
+    "content": "Breaking #news: major policy change announced",
+    "created_at": "2025-05-23T12:00:00Z"
+  }
+]
